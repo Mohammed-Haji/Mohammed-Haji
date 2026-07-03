@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img width="800" height="450" alt="pppppppppppppp (1)" src="https://github.com/user-attachments/assets/16466ae8-399f-4ea0-bdd5-0751b983cb6a" />
 
 
 
@@ -21,3 +20,7 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+<img width="1024" height="256" alt="eeeee (1)-compressed" src="https://github.com/user-attachments/assets/29b52b61-9beb-442d-aca0-f36b45659ebb" />
