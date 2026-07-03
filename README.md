@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[ttt877e5782-2772-4be6-a7aa-cc878431c88f.realesrgan-ezgif.com-gif-to-webm-converter.webm](https://github.com/user-attachments/assets/2dee1c32-db46-4b03-a960-a528e963bb7b)
 
 
 
