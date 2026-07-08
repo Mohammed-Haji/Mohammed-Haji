@@ -36,17 +36,3 @@ Real-time, QR-code-based song voting for public venues — guests scan, search Y
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Haji&show_icons=true&hide_border=true&theme=tokyonight" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Haji&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
-
-</div>
-
-<div align="center">
-
-<sub>🌊 Building things for the web.</sub>
-
-</div>
