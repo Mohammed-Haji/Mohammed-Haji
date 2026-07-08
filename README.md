@@ -10,20 +10,6 @@
 
 </div>
 
----
-
-## 🚀 Featured project
-
-### 🎶 [EchoVote](https://github.com/Mohammed-Haji/echovote)
-
-Real-time, QR-code-based song voting for public venues — guests scan, search YouTube, and vote; the crowd decides what plays next. Glass-inspired UI, live sync, race-safe voting, and a 153-test suite.
-
-`React` · `Node.js` · `Socket.io` · `MongoDB` · `Docker` · `JWT + TOTP 2FA`
-
----
-
-## 🛠️ Tech stack
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
