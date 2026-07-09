@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif" width="928" height="290" alt="Mohammed Haji" />
+<img src="banner.gif" width="860" height="230" alt="Mohammed Haji" />
 
 # Hi, I'm Mohammed Haji
 
